@@ -1,4 +1,4 @@
 # Travello - A Tours & Travel Website.
 A random travel website repository.
 This project is created to learn Dynamic Web Development using Django(2.2).
-The tempaltes for this project are downloaded from https://colorlib.com/wp/template/travello/.
+The tempaltes used for this project were taken from https://colorlib.com/wp/template/travello/.
